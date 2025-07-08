@@ -43,7 +43,6 @@ Our team aims in building a web-based quiz game with the following **key feature
 | **Claudia**   | Logic Developer    | Handles question flow, score tracking, and progression logic                    |
 | **Adrina**    | Git Manager        | Manages GitHub repository, tracks commits, handles merges                       |
 
-> We will support each other when needed. Daily communication happens on WhatsApp and post-session sync-ups.
 
 ---
 
