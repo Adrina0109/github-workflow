@@ -1,0 +1,71 @@
+Prompt 1:  
+“How can I reset all default styles for a clean base?”  
+
+AI Response Summary:  
+Copilot suggested using the universal selector (*) to remove margin and padding, and set box-sizing to border-box.  
+
+My Implementation:  
+Used the exact suggestion at the top of my CSS file.  
+
+Reflection:  
+It’s a best practice in modern CSS. I didn’t change anything — this reset works perfectly for most layouts.
+
+---
+
+Prompt 2:  
+“How do I style the body with a clean font and background gradient?”  
+
+AI Response Summary:  
+Recommended using a system font stack with a light diagonal gradient and setting up flex-direction for layout flow.  
+
+My Implementation:  
+I didn't make further changes — including font-family, background, min-height, and flex layout.  
+
+Reflection:  
+The gradient looks soft and professional. I kept everything as-is because it matched my design goal.
+
+---
+ 
+Prompt 3:  
+“How can I create a sticky header with a glassmorphism effect?”  
+
+AI Response Summary:  
+Copilot provided a sticky `position`, a semi-transparent background with `rgba()`, and added `backdrop-filter: blur(10px)`.  
+
+My Implementation:  
+I used the same code, including padding, blur, and shadow for depth.  
+
+Reflection:  
+The effect was exactly what I was looking for, so I didn’t change anything. It gave a clean, modern header.
+
+---
+ 
+Prompt 4:  
+“How do I make nav links underline on hover smoothly using CSS?”  
+
+AI Response Summary:  
+Copilot used `::after` with a width transition and `position: absolute` to create an animated underline.  
+
+My Implementation:  
+Added. On hover, the underline grows from left to right as expected.  
+
+Reflection:  
+Worked perfectly. Looked subtle and modern, so I didn’t modify it.
+
+---
+
+Prompt 5:  
+“How can I style a product section with responsive grid layout and hover effect cards?”  
+
+AI Response Summary:  
+Suggested CSS Grid using `auto-fit` and `minmax`, and hover animations with `transform` and `box-shadow`.  
+
+My Implementation:  
+Used all the suggested classes for `.products` and `.product-card` sections — including animations and responsiveness.  
+
+Reflection:  
+The layout and animations looked great across screen sizes. I didn’t need to tweak anything.
+
+
+
+
